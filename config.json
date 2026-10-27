@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "title": "Applications (Local)",
+      "layout": "large",
+      "showUrl": true,
+      "showStatus": true,
+      "items": [
+        {
+          "name": "Jellyfin",
+          "icon": "🎬",
+          "url": "http://192.168.1.111:8096"
+        },
+        {
+          "name": "qBittorrent",
+          "icon": "📤",
+          "url": "http://192.168.1.111:8080"
+        },
+        {
+          "name": "Prowlarr",
+          "icon": "🔍",
+          "url": "http://192.168.1.111:9696"
+        },
+        {
+          "name": "Aria2",
+          "icon": "⬇️",
+          "url": "https://ziahamza.github.io/webui-aria2/"
+        }
+      ]
+    },
+    {
+      "title": "Applications Remote",
+      "layout": "large",
+      "showUrl": true,
+      "showStatus": true,
+      "items": [
+        {
+          "name": "Jellyfin",
+          "icon": "🎬",
+          "url": "https://media.miglanis.in"
+        },
+        {
+          "name": "qBittorrent",
+          "icon": "📤",
+          "url": "https://torrent.miglanis.in"
+        },
+        {
+          "name": "Prowlarr",
+          "icon": "🔍",
+          "url": "https://search.miglanis.in"
+        },
+        {
+          "name": "Aria2",
+          "icon": "⬇️",
+          "url": "https://ziahamza.github.io/webui-aria2/"
+        }
+      ]
+    }
+  ]
+}
